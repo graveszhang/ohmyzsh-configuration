@@ -3,7 +3,7 @@ This is my oh-my-zsh profile inspired by [ChesterYue](https://github.com/Chester
 
 ## Usage
 ```shell
-cd ~/.oh-my-zsh/theme
+cd ~/.oh-my-zsh/themes
 cp ${RELATIVE_PATH}/graves.zsh-theme ./
 ```
 
