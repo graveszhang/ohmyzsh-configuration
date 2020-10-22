@@ -5,8 +5,9 @@ This is my oh-my-zsh profile inspired by [ChesterYue](https://github.com/Chester
 ```shell
 cd ~/.oh-my-zsh/themes
 cp ${RELATIVE_PATH}/graves.zsh-theme ./
+vim ~/.zshrc
 ```
-
+Set ```ZSH_THEME``` to ```graves``` 
 Go to iTerm - Preference - Profiles - Colors - Import Preset 
 
 ## Demo
